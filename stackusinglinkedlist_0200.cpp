@@ -13,6 +13,11 @@ public:
 		  next = NULL;
 	  }
 };
+
+class stack
+{
+
+};
 int main()
 {
     std::cout << "Hello World!\n";
